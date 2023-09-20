@@ -1,1 +1,3 @@
 # git-test
+My first Git/Github test ever done! I'm proud of you, Will! Where ever you are...
+Hello Odin! ;D
